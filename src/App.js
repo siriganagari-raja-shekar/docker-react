@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Testing hot reload. Change again after docker-compose.
+          This change was done on feature branch and will be seen on AWS
         </p>
         <a
           className="App-link"
